@@ -1,0 +1,11 @@
+Package: arcconf
+Version: 1.8~rax1-1
+Architecture: amd64
+Maintainer: Jonathan Brown <jbrown@rackspace.com>
+Installed-Size: 2412
+Depends: libc6 (>= 2.3.4), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.1.1)
+Section: misc
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Command Line Utility for adaptec raid controllers.
+ Command Line Utility for adaptec raid controllers.

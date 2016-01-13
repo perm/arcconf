@@ -1,0 +1,13 @@
+Source: arcconf
+Section: misc
+Priority: optional
+Maintainer: Jonathan Brown <jbrown@rackspace.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: <insert the upstream URL, if relevant>
+
+Package: arcconf
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Command Line Utility for adaptec raid controllers.
+ Command Line Utility for adaptec raid controllers.
