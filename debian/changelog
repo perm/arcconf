@@ -1,4 +1,4 @@
-arcconf (1.8~rax1-1) trusty; urgency=low
+arcconf (1.08-1rax1) precise/trusty; urgency=low
 
   * CLI RAID utility arcconf for use with adaptec RAID controllers
 

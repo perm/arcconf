@@ -2,8 +2,8 @@ Source: arcconf
 Section: misc
 Priority: optional
 Maintainer: Jonathan Brown <jbrown@rackspace.com>
-Build-Depends: debhelper (>= 8.0.0)
-Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 7.0.50~)
+Standards-Version: 3.9.3.1
 Homepage: <insert the upstream URL, if relevant>
 
 Package: arcconf
